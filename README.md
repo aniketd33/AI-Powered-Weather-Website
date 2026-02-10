@@ -57,7 +57,7 @@ AI-Powered-Weather-Website/
 ## ▶️ How to Run the Project
 
 1. Clone the repository  
-   ```bash
+   
    git clone https://github.com/aniketd33/AI-Powered-Weather-Website.git
 Open the project folder
 
@@ -74,6 +74,7 @@ Wind Speed: 10.4 km/h
 Air Quality Index: 97.05
 
 🎯 Future Enhancements
+
 🔹 7-day weather forecast
 🔹 Auto-detect user location
 🔹 Dark mode support
@@ -81,12 +82,14 @@ Air Quality Index: 97.05
 🔹 AI-based weather prediction
 
 👨‍💻 Author
+
 **Aniket Dombale**
 📌 Data Science & AI Enthusiast
 🔗 GitHub: https://github.com/aniketd33
 
 
 If you like this project, don’t forget to star ⭐ the repository.
+
 
 
 
