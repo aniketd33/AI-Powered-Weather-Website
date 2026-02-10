@@ -8,7 +8,8 @@ The project focuses on **accuracy**, **clean UI**, and **fast response** using l
 ## 📸 Project Preview
 
 ![Weather App Preview](./Weather.png)
-<img width="1797" height="965" alt="Weather Web" src="https://github.com/user-attachments/assets/9c6aa224-fb96-4a4b-9287-6c11f838b3b6" />
+<img width="1042" height="808" alt="Screenshot 2026-02-10 102240" src="https://github.com/user-attachments/assets/39f9d7fd-395d-47fd-98f8-35535b653404" />
+
 
 ---
 
@@ -91,4 +92,5 @@ Aniket Dombale
 
 ⭐ Support
 If you like this project, don’t forget to star ⭐ the repository.
+
 
