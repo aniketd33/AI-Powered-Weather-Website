@@ -67,15 +67,10 @@ Open index.html in your browser
 
 🌍 Sample Output
 City: Pune, India
-
 Weather: Sunny
-
 Temperature: 26.5°C
-
 Humidity: 27%
-
 Wind Speed: 10.4 km/h
-
 Air Quality Index: 97.05
 
 🎯 Future Enhancements
@@ -86,11 +81,12 @@ Air Quality Index: 97.05
 🔹 AI-based weather prediction
 
 👨‍💻 Author
-Aniket Dombale
+**Aniket Dombale**
 📌 Data Science & AI Enthusiast
 🔗 GitHub: https://github.com/aniketd33
 
-⭐ Support
+
 If you like this project, don’t forget to star ⭐ the repository.
+
 
 
