@@ -8,10 +8,7 @@ The project focuses on **accuracy**, **clean UI**, and **fast response** using l
 ## 📸 Project Preview
 
 ![Weather App Preview](./Weather.png)
-
-> ⚠️ Note:  
-> Keep the image file name as **Weather.png**  
-> Place it in the **root folder** of the repository.
+<img width="1797" height="965" alt="Weather Web" src="https://github.com/user-attachments/assets/9c6aa224-fb96-4a4b-9287-6c11f838b3b6" />
 
 ---
 
@@ -94,3 +91,4 @@ Aniket Dombale
 
 ⭐ Support
 If you like this project, don’t forget to star ⭐ the repository.
+
